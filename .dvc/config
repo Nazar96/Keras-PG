@@ -1,0 +1,2 @@
+['remote "bucket"']
+    url = s3://keras-pgd2513
