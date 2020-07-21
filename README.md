@@ -3,7 +3,7 @@ KERAS
 
 Playground for keras models
 
-<img alt="Keras logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/80px-Keras_logo.svg.png" decoding="async" width="160" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/160px-Keras_logo.svg.png 2x" data-file-width="512" data-file-height="512">
+<img alt="Keras logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" width="160" height="160">
 
 Project Organization
 ------------
